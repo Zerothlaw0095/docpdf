@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+transformers
+huggingface_hub
+torch
+accelerate
+python-dotenv
+PyPDF2
